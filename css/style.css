@@ -1,0 +1,29 @@
+*{
+    background-size: cover;
+}
+
+.quemsomos{
+    background-color: #23232e;
+    text-shadow: 3px 3px 10px coral;
+    box-shadow: 3px 10px 60px #23232e;
+    color: coral;
+}
+.parceiros{
+    background-color: coral;
+    box-shadow: 3px 10px 60px coral;
+    text-shadow: 3px 3px 10px #23232e;
+    color: #23232e;
+}
+
+.catalogo{
+    background-color: #23232e;
+    text-shadow: 3px 3px 10px crimson;
+    box-shadow: 3px 10px 50px #23232e;
+    color: crimson;
+   
+}
+
+p{
+    font-size: small;
+    margin-right: 85%;
+}
